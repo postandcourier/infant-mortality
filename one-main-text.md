@@ -139,7 +139,7 @@ Even in Florence County, home to McLeod and its modern medical facilities, black
 
 For years, the state’s hospitals have attempted to curb infant deaths by trying to make sure that 90 percent of all babies born at less than 32 weeks in the womb are delivered at one of the state’s top-five rated hospitals with well-equipped and staffed neonatal units.
 
-Those hospitals are McLeod, MUSC, [Palmetto Richland Memorial](palmettohealth.org), Greenville and Spartanburg Regional Medical Center.
+Those hospitals are McLeod, MUSC, Palmetto Richland Memorial, Greenville and Spartanburg Regional Medical Center.
 
 The effort, however, misses three out of every 10 of those babies, Harlan said.
 
