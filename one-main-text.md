@@ -12,7 +12,7 @@ More than 200 newborns from these rural counties have died on average during eac
 
 These struggling communities remain largely untouched by a four-year state campaign to stop babies from dying unnecessary deaths.
 
-The state provides no significant money to support some of the most promising infant death prevention efforts. And the programs aren’t available in some counties that need the most help.
+The state provides relatively little money to support some of the most promising infant death prevention efforts. And the programs aren’t available in some counties that need the most help.
 
 South Carolina has long ranked among the deadliest states for newborns. Since 2000, 6,696 South Carolina babies have died before their first birthdays. That’s more than double the number of people killed in the 9/11 terrorist attacks.
 
