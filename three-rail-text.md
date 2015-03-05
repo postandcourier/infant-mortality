@@ -68,7 +68,7 @@ Some newborn deaths are simply unavoidable.
 
 But, Sullivan had a theory that the defect “might not manifest in the same way each time. There would be a chance that another child would be partially affected, and we could do something to help.”
 
-If it occurred in exactly the same way, Sullivan said, “all we could do would be to plan and do palliative — like hospice — care.
+If it occurred in exactly the same way, Sullivan said, “all we could do would be to plan and do palliative — like hospice — care."
 
 Laura and her husband, Andrew, now a Boeing engineer, buried Noah in Magnolia Cemetery over Easter weekend.
 
@@ -76,7 +76,7 @@ On Easter day, Laura felt an overwhelming reassurance “like God is going to bl
 
 Fourteen months later, Laura, now 33, gave birth to William.
 
-In short order, he was followed by two more healthy children, Anna in 2013 and Jillian, “perfect and beautiful,” just last week.
+In short order, he was followed by two more healthy children, Anna in 2013 and Jillian, “perfect and beautiful,” just last month.
 
 Sullivan and his department’s specialists monitored each of the pregnancies.
 
