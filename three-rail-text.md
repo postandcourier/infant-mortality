@@ -28,7 +28,7 @@ The only sign of life was his heartbeat.
 
 The doctor then said, “I’m sorry, but we don’t think the baby will survive after birth.”
 
-Laura gasped. She was stunned, feeling blindsided. None of her previous doctors had even hinted death was a possibility for the baby she would name Noah.
+Laura gasped. She was blindsided and stunned. None of her previous doctors had even hinted death was a possibility for the baby she would name Noah.
 
 The MUSC physician was surprised Laura hadn’t been told earlier.
 
