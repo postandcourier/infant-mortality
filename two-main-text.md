@@ -12,13 +12,13 @@ She’s typical of far too many young black mothers in a state where the death r
 
 Ashley sinks into an overstuffed couch in the den of her parents’ brick ranch home in a neighborhood of tidy, small houses and trailers just off this farm town’s main drag. 
 
-The town claims as a favorite son Depression-era FBI agent Melvin Purvis, who famously led the hunt that killed gangster John Dillinger. The town’s main claim to fame nowadays is the nearby Honda all-terrain vehicle plant.
+The town claims as a favorite son Depression-era FBI agent Melvin Purvis, who famously led the hunt that killed gangster John Dillinger. Nowadays, it's best known for the nearby Honda all-terrain vehicle plant.
 
 Three miles from that bustling plant, Ashley cradles the toy baby in the crook of her left arm with the ease of an experienced mother.
 
 The toy baby is a prop Driggers uses to gauge how comfortable first-time mothers-to-be are with what will soon be coming their way.
 
-Driggers is one of dozens of nurses in South Carolina who are part of a national program called Nurse-Family Partnership. McLeod Regional Medical Center in Florence, where Driggers works, sponsors the program in four of the 26 mostly rural counties where it operates.
+Driggers is one of dozens of nurses in South Carolina who are part of a national program called Nurse Family Partnership. McLeod Regional Medical Center in Florence, where Driggers works, sponsors the program in four of the 26 mostly rural counties where it operates.
 
 The four counties — Florence, Darlington, Dillon and Marlboro — are part of McLeod’s service area.
 
@@ -28,7 +28,7 @@ McLeod sees the initiative as a way to counter the high infant mortality rates a
 
 ### The cradle of death
 
-Infant mortality is such a crisis in many counties surrounding McLeod that it’s a virtual cradle of death, with some of the state’s highest rates of newborns dying before their first birthdays — nearly double the state average.
+Infant mortality is such a crisis in many counties surrounding McLeod that the area is a virtual cradle of death, with some of the state’s highest rates of newborns dying before their first birthdays — nearly double the state average.
 
 For black newborns, the toll is even greater — triple that of whites, and more in some cases.
 
@@ -38,15 +38,15 @@ The nurses meet their assigned mothers at home several times every month through
 
 Ashley was referred to the program by the Florence County Health Department. Her baby is due in August.
 
-Driggers visits nine mothers.
+Driggers visits nine mothers each week.
 
-The program’s goal is 25 for each of the five nurses currently participating. The program serves 29 mothers but that’s expected to grow rapidly as the new program reaches full speed.
+The program’s goal is 25 for each of the five nurses currently participating. The program serves 29 mothers but that’s expected to grow rapidly.
 
-Of the state’s many, but mostly scattered, uncoordinated and underfunded efforts to combat infant mortality, the Nurse-Family Partnership offers a proven track record. 
+Of the state’s many, but mostly scattered, uncoordinated and underfunded efforts to combat infant mortality, the Nurse Family Partnership offers a proven track record. 
 
-It’s a pricey, hands-on program that costs on average about $4,800 a year per mother. In 2014, the program served 1,286 South Carolina mothers and their babies.
+It’s a pricey, hands-on program that costs about $4,800 a year per mother. In 2014, the program served 1,286 South Carolina mothers and their babies.
 
-It can cost as much as $6,500 per family, according to McLeod spokeswoman Tracy Stanton said. But, she pointed to studies that show it works and that for every dollar spent, it earns a $6.20 return from decreased spending on health care, criminal justice, child protection and other community services.
+It can cost as much as $6,500 per family, McLeod spokeswoman Tracy Stanton said. But, she pointed to studies that show it works and that for every dollar spent, it earns a $6.20 return from decreased spending on health care, criminal justice, child protection and other community services.
 
 A report published last year in the medical journal JAMA Pediatrics found significant reductions in infant mortality and other childhood problems as a result of nurses making regular home visits with pregnant women and young mothers. The study in Memphis, Tennessee described such visits with young mothers as “a promising means of reducing ... mortality in their first-born children living in highly disadvantaged settings.”
 
@@ -70,7 +70,7 @@ She wants him to participate in the sessions with Driggers, but, so far, he’s 
 
 Just why the national death rate for blacks runs double that for whites remains uncertain and a cause of debate.
 
-Even among well-off blacks the rate remains elevated compared to whites.
+Even among middle- and upper-income blacks the rate remains elevated compared to whites.
 
 Experts generally agree that the cause is rooted in a combination of factors.
 
@@ -86,7 +86,7 @@ Sullivan, and many experts, believe blacks also have genetic susceptibilities to
 
 “Things like little infections, urinary tract or vaginal, can be devastating” in some black patients, he said.
 
-In addition, blacks experience “higher rates of hypertension, kidney disease and diabetes, which all have a genetic component.” Sullivan said.
+In addition, blacks experience “higher rates of hypertension, kidney disease and diabetes, which all have a genetic component,” Sullivan said.
 
 Dr. Henry Lemon, an MUSC pediatrician, said one example of how subtle genetic susceptibilities can be is the fact that darker-skinned people suffer a greater incidence of Vitamin D deficiency.
 
@@ -104,7 +104,7 @@ In South Carolina, two-thirds of the residents are overweight or obese. That mea
 
 For black South Carolinians, the numbers are bleaker. Two out of every five blacks are obese compared to about one in four of whites.
 
-And then the role of less tangible factors come into play.
+And then, less tangible factors come into play.
 
 An increasing number of studies, including some cited by the National Institutes of Health, theorize that the cumulative level of stress from dealing with real and perceived racism takes a health toll on blacks and may account for part of the high infant mortality rate.
 
@@ -118,13 +118,13 @@ Building a baby-friendly lifestyle
 
 Ashley continues to cradle the toy baby in her left arm and gestures with her right hand toward nurse Driggers.
 
-“She’s like having another Mom I can learn a lot more from,” Ashley said.
+“She’s like having another mom I can learn a lot more from,” Ashley says.
 
-“I was not prepared at all,” when Driggers’ visits began, Ashley said. “Now, I can have someone to talk to and break things down. You can’t get it from a doctor.”
+“I was not prepared at all,” when Driggers’ visits began, Ashley says. “Now, I can have someone to talk to and break things down. You can’t get it from a doctor.”
 
 For Driggers, the goal is to develop long-term relationships with young mothers to steadily break the cycle that can lead to preventable infant deaths.
 
-“We’re here to set life goals” that set mothers on the path to healthy lives for themselves and their children, and the family and friends they touch, Driggers said.
+“We’re here to set life goals” that set mothers on the path to healthy lives for themselves and their children, and the family and friends they touch, Driggers says.
 
 She turns toward Ashley. “Look how far you’ve come.”
 
