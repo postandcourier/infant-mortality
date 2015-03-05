@@ -4,7 +4,7 @@ layout: dayone
 
 Three things stand out about Yazmin Garcia as she lies on an examination table at the Oconee County Health Department: her smile, the Mexican flags painted on each of her big toenails, and her fully exposed, six-month-pregnant belly.
 
-She’s here for an ultrasound to see if all looks right with her baby, which is a boy.
+She’s here for an ultrasound to see if all looks right with her baby, which obviously is a boy.
 
 She’s 22, poor, illegal, unmarried and soon to be the mother of four.
 
@@ -22,7 +22,7 @@ But something different is at play in Oconee, home to 75,045 people. The county�
 
 For years, Oconee’s infant mortality rate generally has hovered below the state average. That’s partially due to its small percentage of black residents, about eight out of every 100 residents. Only neighboring Pickens County has a smaller percentage of blacks.
 
-On average for the last three years, black infant mortality in South Carolina has run at double the rate for whites. In some counties it’s triple.
+On average for the last three years, black infant mortality in South Carolina has run at double the rate for whites. In some counties, it’s triple.
 
 Another key reason for Oconee’s low infant death rate is Dr. Jennifer Hanke, and physicians like her. She’s a family doctor specially trained in obstetrics to care for women during pregnancy and childbirth. She also is trained to perform certain obstetric surgeries, mainly cesarean deliveries, or C-sections, the delivery of a baby through surgical incision.
 
@@ -34,21 +34,21 @@ Evans, a professor of family medicine with the Medical University of South Carol
 
 For the medical residents who are interested, it also offers concentrated training in obstetrical and gynecological medical service, Evans said.
 
-“If you train them in an ivory tower setting,” such as in modern urban hospitals, “those people don’t stick, he said. It’s hard for them to adjust to practicing in a rural community away from all the medical support in big cities.”
+“If you train them in an ivory tower setting,” such as in modern urban hospitals, “those people don’t stick," he said. "It’s hard for them to adjust to practicing in a rural community away from all the medical support in big cities.”
 
 ### Rural care not met
 
 The need for doctors to care for pregnant women and newborns is high in rural South Carolina, but it’s not being met by current methods, Evans said.
 
-In many rural areas “obstetrics falls into the laps of family physicians because you just can’t get OB/GYNs to locate in tiny towns,” he said.
+In many rural areas, “obstetrics falls into the laps of family physicians because you just can’t get OB/GYNs to locate in tiny towns,” he said.
 
-Those family physicians do not have specialized training to care for pregnant women and provide surgeries such as C-sections. 
+Most of those family physicians do not have specialized training to care for pregnant women and provide surgeries such as C-sections. 
 
 Hanke graduated from Evans’ three-year residency in 2008, and stayed on in Oconee County because she likes small towns and the personal nature of family medicine.
 
 “We’re serving a need,” she said, and rolls the ultrasound around Garcia’s belly.
 
-Garcia receives ultrasounds and other prenatal care at a free clinic for undocumented Hispanics offered through the family medicine residency program. The residents essentially provide free medical care in exchange for the experience, Evans said. 
+Garcia receives ultrasounds and other prenatal care at a free clinic for undocumented Hispanics offered through the family medicine residency program. She doesn't quality for the low-income Medicaid program, as do most pregnant women, because she is undocumented. The residents essentially provide free medical care in exchange for the experience, Evans said. 
 
 Hanke rubs more lubricating gel over Garcia’s belly and gently moves the ultrasound back and forth. The baby’s cellophane silhouette appears on the screen.
 
@@ -108,9 +108,9 @@ She completed her residency last June and by early October she sat in front of a
 
 “This is exciting stuff,” Westmoreland said. “You are in the action. You get to do absolutely everything.” 
 
-If she had stayed at Greenville with its expansive hospital, she wouldn’t have been able to do obstetrics, much less C-sections, she said.
+If she had stayed in` Greenville with its expansive hospital, she wouldn’t have been able to do obstetrics, much less C-sections, she said.
 
-In Oconee she handles all types of medical issues, never knowing what’s coming next. “I absolutely love not knowing what’s behind the door.”
+In Oconee, she handles all types of medical issues, never knowing what’s coming next. “I absolutely love not knowing what’s behind the door.”
 
 ### Infant deaths fall in Newberry County
 
@@ -120,7 +120,7 @@ But the residency was moved to Oconee County after details could not be worked o
 
 Lovelace, a family doctor, recognized the need for C-section training in 1989 during his second year of solo practice in Newberry County.
 
-That year, the county’s only OB/GYN died, suddenly leaving Lovelace as the only physician delivering babies in three neighboring rural counties: Newberry, Saluda and Fairfield. He delivered 220 babies that year.
+That year, the county’s only OB/GYN died suddenly, leaving Lovelace as the only physician delivering babies in three neighboring rural counties: Newberry, Saluda and Fairfield. He delivered 220 babies that year.
 
 With no resident OB/GYN, the hospital considered stopping baby deliveries, but Lovelace urged the hospital to continue the service. He received backup from a general surgeon, but the surgeon quit medical practice in 1991.
 
@@ -134,7 +134,7 @@ Hospital spokeswoman Heather Woolwine said MUSC halted the program because Lovel
 
 Lovelace denied that. He said he helped design the program and it never was intended solely for emergency surgeries. He accused MUSC of having “turned their back on rural South Carolina.”
 
-The other family physicians in his practice eventually found the training at other hospitals.
+The family physicians in his practice eventually found the training at other hospitals.
 
 ### Rural medical care lacking
 
@@ -142,9 +142,9 @@ Lovelace’s family practice became one of the few in rural South Carolina to of
 
 Three years after Lovelace and his fellow doctors received the training, black infant mortality in Newberry County dropped by two-thirds, state health department data shows.
 
-And over the last three years of complete records, rural Newberry and Oconee counties boast among the lowest overall infant mortality rates in the state — rates below the state average for those years.
+And over the last three years of complete records, rural Newberry and Oconee counties boast among the lowest overall infant mortality rates in the state — rates below the state average for that same period.
 
-Unlike in Oconee County, Newberry’s low infant mortality rate of about six babies out of every 1,000 over the past three years cannot be attributed in part to a small black population. Blacks account for almost one-third of Newberry’s residents.
+Unlike in Oconee County, Newberry’s low infant mortality rate of about six babies out of every 1,000 over the past three years cannot be attributed to a small black population. Blacks account for almost one-third of Newberry’s residents.
 
 Lovelace was named the 2015 Family Physician of the Year by the American Academy of Family Physicians, and said “well-trained family physicians are a keystone of the rural medical community.”
 
