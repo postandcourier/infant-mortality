@@ -2,7 +2,7 @@
 layout: dayone
 ---
 
-Three things stand out about Yazmin Garcia as she lies on an examination table at the Oconee County Health Department: her smile, the Mexican flags painted on each of her big toenails, and her fully exposed, six-month-pregnant belly.
+Three things stand out about Yazmin Garcia as she lies on an examination table at the Oconee County Health Department: her smile, the Mexican flags painted on each of her big toenails and her fully exposed, six-month-pregnant belly.
 
 She’s here for an ultrasound to see if all looks right with her baby, which obviously is a boy.
 
@@ -28,7 +28,7 @@ Another key reason for Oconee’s low infant death rate is Dr. Jennifer Hanke, a
 
 She received that training during her family medicine residency just 10 miles away at Oconee Medical Center through a program designed to train family physicians for rural medical practices.
 
-It’s the only such residency for family physicians in the state, one of just 25 nationally, according to the residency’s director, Ed Evans.
+It’s the only such residency for family physicians in the state, one of just 25 nationally, according to the residency’s director, Dr. Ed Evans.
 
 Evans, a professor of family medicine with the Medical University of South Carolina, thinks the residency helps provide one of the key means to reduce infant mortality in rural areas.
 
@@ -48,13 +48,15 @@ Hanke graduated from Evans’ three-year residency in 2008, and stayed on in Oco
 
 “We’re serving a need,” she said, and rolls the ultrasound around Garcia’s belly.
 
-Garcia receives ultrasounds and other prenatal care at a free clinic for undocumented Hispanics offered through the family medicine residency program. She doesn't quality for the low-income Medicaid program, as do most pregnant women, because she is undocumented. The residents essentially provide free medical care in exchange for the experience, Evans said. 
+Garcia receives ultrasounds and other prenatal care at a free clinic for undocumented Hispanics offered through the family medicine residency program. She doesn't quality for the low-income Medicaid program, as do most pregnant women, because she is undocumented. 
 
-Hanke rubs more lubricating gel over Garcia’s belly and gently moves the ultrasound back and forth. The baby’s cellophane silhouette appears on the screen.
+The residents essentially provide free medical care in exchange for the experience, Evans said. 
+
+Hanke rubs more lubricating gel over Garcia’s belly and gently moves the ultrasound wand back and forth. The baby’s cellophane silhouette appears on the screen.
 
 This is what Garcia’s 3-year-old son Bryan came for. He strains to look at the ultrasound screen. A smile bursts across his face. He bounces up and down and repeatedly shouts, “See the baby! See the baby! See the baby!” 
 
-Hanke points to the baby’s chest. She tells Garcia, “there’s the heart beating and there you can tell its four chambers.” Bryan excitedly calls out again, “See the baby! See the baby!”
+Hanke points to the baby’s chest. She tells Garcia, “there’s the heart beating, and there you can tell its four chambers.” Bryan excitedly calls out again, “See the baby! See the baby!”
 
 The only noticeable potential problem is the baby’s head pointing up instead of down as it should be for birth. But Hanke tells Garcia the baby has plenty of time left in the womb to turn around. “We’ll keep a watch on that.” 
 
