@@ -67,14 +67,13 @@ The list price for the brand-name version of this drug is $690 for each weekly i
 
 In South Carolina, the Medicaid agency spent more than $500,000 on brand-name and compounded versions of this drug during a six-month span in 2014. One of the primary goals of the Birth Outcomes Initiative has been to make the drug “available to all at-risk pregnant women with no ‘hassle factor.’”
 
-##### “Baby Friendly”
+##### 'Baby Friendly'
 
-In 2013, the South Carolina Department of Health and Human Services launched a campaign called “Race to the Date” to encourage birthing hospitals to become “Baby Friendly,” a national program that promotes breast-feeding. 
+In 2013, the South Carolina Department of Health and Human Services launched a campaign called “Race to the Date” to encourage birthing hospitals to become “Baby Friendly,” a national program that promotes breastfeeding. 
 
-Hospital nurses must undergo extensive training and cannot offer new moms the option of feeding their infants formula, unless it is medically necessary.
-Four hospitals, including Roper St. Francis Mt. Pleasant Hospital and Medical University Hospital, each earned $200,000 from the state government for successfully achieving the recognition by the fall 2013 deadline. Since then, three other South Carolina hospitals also have earned the “Baby Friendly” designation. The vast majority of facilities in this state that deliver babies have not been certified. Research shows breast-feeding lowers the risk for disease and promotes infant health. 
+Hospital nurses must undergo extensive training and cannot offer new moms the option of feeding their infants formula unless it is medically necessary.
 
-It also costs nothing for a mother to breast-feed her baby.
+Four hospitals, including Roper St. Francis Mt. Pleasant Hospital and Medical University Hospital, each earned $200,000 from the state government for successfully achieving the recognition by the fall 2013 deadline. Since then, three other South Carolina hospitals also have earned the “Baby Friendly” designation. The vast majority of facilities in this state that deliver babies have not been certified. Research shows breastfeeding lowers the risk for disease and promotes infant health. It also costs nothing for a mother to breastfeed her baby.
 
 ##### Healthy Connections Checkup
 
