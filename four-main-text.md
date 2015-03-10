@@ -16,7 +16,7 @@ She and her husband, Scott, now 39, are devout Baptists and considered the pregn
 
 Now, that gift was in danger.
 
-The couple consulted with her physician and doctors at Palmetto Health Richland hospital in Columbia who recommended that she seek assistance from specialists at the Medical University of South Carolina.
+The couple consulted with her physician and doctors at Palmetto Health Richland hospital in Columbia, who recommended that she seek assistance from specialists at the Medical University of South Carolina.
 
 The Taylors discovered they were about to benefit from one of the most promising new programs in the state to get specialized medical skill to rural communities and hospitals that lack necessary expertise.
 
@@ -50,7 +50,7 @@ The procedure “can be quite dangerous. We lose kids sometimes during and after
 
 The transfusion didn’t go well. The doctors were “in there twice as long as they like to be,” Erin said.
 
-“We almost lost him twice,” Sullivan said of the unborn baby boy who was not cooperating by moving around too much.
+“We almost lost him twice,” Sullivan said of the then-unborn baby boy who was not cooperating by moving around too much.
 
 Sullivan had managed to get about three-quarters of the transfusion blood into the baby’s umbilical cord when the baby kicked the needle out. Rather than try to stick the cord again, Sullivan opted to use an old trick described by the physicians who perfected the technique. He jabbed the needle into the baby’s belly, where it would take longer for the blood transfusion to be absorbed. He hoped that might prevent the need for a second transfusion. 
 
@@ -60,6 +60,6 @@ She and her husband stayed that night at MUSC and cheered each time she felt the
 
 The 24 hours passed with no alarm, and the couple returned to Camden where Sullivan resumed regular monitoring via telemedicine.
 
-Two weeks after the transfusion, the baby’s vital signs returned to normal. Seventeen weeks later, on Oct. 4, 2014, Joshua was born, a healthy 6 pounds, 11 ounces.
+Two weeks after the transfusion, the baby’s vital signs returned to normal. Seventeen weeks later, on Oct. 4, Joshua was born, a healthy 6 pounds, 11 ounces.
 
 “It was the best gift I’ve ever been given,” Erin said. “I haven’t set him down much.”
