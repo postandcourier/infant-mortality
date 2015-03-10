@@ -26,11 +26,11 @@ McLeod’s effort also receives money from the Children’s Trust of South Carol
 
 McLeod sees the initiative as a way to counter the high infant mortality rates and preterm deliveries that plague Florence and the rural Pee Dee counties that surround it. The program got underway in December.
 
-### The cradle of death
+### The 'cradle of death'
 
 Infant mortality is such a crisis in many counties surrounding McLeod that the area is a virtual cradle of death, with some of the state’s highest rates of newborns dying before their first birthdays — nearly double the state average.
 
-For black newborns, the toll is even greater — triple that of whites, and more in some cases.
+For black newborns, the toll is even greater — douple or triple that of whites, and more in some cases.
 
 Ashley fits the mold for the type of young mother the program aims to serve. The idea is to pair nurses with low-income, first-time moms to help them build healthy lives for themselves and their babies.
 
@@ -40,15 +40,15 @@ Ashley was referred to the program by the Florence County Health Department. Her
 
 Driggers visits nine mothers each week.
 
-The program’s goal is 25 for each of the five nurses currently participating. The program serves 29 mothers but that’s expected to grow rapidly.
+The program’s goal is 25 for each of the five nurses currently participating. The program serves 29 mothers, but that’s expected to grow rapidly.
 
 Of the state’s many, but mostly scattered, uncoordinated and underfunded efforts to combat infant mortality, the Nurse Family Partnership offers a proven track record. 
 
 It’s a pricey, hands-on program that costs about $4,800 a year per mother. In 2014, the program served 1,286 South Carolina mothers and their babies.
 
-It can cost as much as $6,500 per family, McLeod spokeswoman Tracy Stanton said. But, she pointed to studies that show it works and that for every dollar spent, it earns a $6.20 return from decreased spending on health care, criminal justice, child protection and other community services.
+It can cost as much as $6,500 per family, McLeod spokeswoman Tracy Stanton said. But she pointed to studies that show it works and that for every dollar spent, it earns a $6.20 return from decreased spending on health care, criminal justice, child protection and other community services.
 
-A report published last year in the medical journal JAMA Pediatrics found significant reductions in infant mortality and other childhood problems as a result of nurses making regular home visits with pregnant women and young mothers. The study in Memphis, Tennessee described such visits with young mothers as “a promising means of reducing ... mortality in their first-born children living in highly disadvantaged settings.”
+A report published last year in the medical journal JAMA Pediatrics found significant reductions in infant mortality and other childhood problems as a result of nurses making regular home visits with pregnant women and young mothers. The study in Memphis, Tenn., described such visits with young mothers as “a promising means of reducing ... mortality in their first-born children living in highly disadvantaged settings.”
 
 ### Family support
 
@@ -74,7 +74,7 @@ Even among middle- and upper-income blacks the rate remains elevated compared to
 
 Experts generally agree that the cause is rooted in a combination of factors.
 
-Dr. Scott Sullivan, director of the Medical University of South Carolina’s Division Maternal Fetal Medicine, pins it on three main causes: poverty, genetics and diet.
+Dr. Scott Sullivan, director of the Medical University of South Carolina’s Division of Maternal Fetal Medicine, pins it on three main causes: poverty, genetics and diet.
 
 The poverty aspect is the most obvious cause, Sullivan said. “Poverty leads to bad outcomes.” 
 
@@ -88,7 +88,7 @@ Sullivan, and many experts, believe blacks also have genetic susceptibilities to
 
 In addition, blacks experience “higher rates of hypertension, kidney disease and diabetes, which all have a genetic component,” Sullivan said.
 
-Dr. Henry Lemon, an MUSC pediatrician, said one example of how subtle genetic susceptibilities can be is the fact that darker-skinned people suffer a greater incidence of Vitamin D deficiency.
+Dr. Henry Lemon, an MUSC pediatrician, said one example of how subtle genetic susceptibilities can be is the fact that darker-skinned people suffer a greater incidence of vitamin D deficiency.
 
 Consequently, he said, if a pregnant black woman lacks prenatal care, she may not get the high doses of vitamin D during pregnancy that can reduce instances of diabetes, preterm birth and infection.
 
