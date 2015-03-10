@@ -14,7 +14,7 @@ These struggling communities remain largely untouched by a four-year state campa
 
 The state provides relatively little money to support some of the most promising infant death prevention efforts. And the programs aren’t available in some counties that need the most help.
 
-South Carolina has long ranked among the deadliest states for newborns. Since 2000, 6,696 South Carolina babies have died before their first birthdays. That’s more than double the number of people killed in the 9/11 terrorist attacks.
+South Carolina has long ranked among the deadliest states for newborns. Since 2000, 6,696 South Carolina babies have died before their first birthdays. That’s more than double the number of people killed in the 9/11 terror attacks.
 
 In recent years, noticeable gains have been made in the state’s booming metropolitan areas, where state-of-the-art hospitals and programs exist to help new mothers through the risks of pregnancy and fragile first months after birth. But poor areas of South Carolina have been left behind, with neither the money nor the resources to conquer the problems claiming their young, the newspaper’s investigation found.
 
@@ -32,13 +32,13 @@ Eight of South Carolina’s 46 counties don’t have an obstetrician, a physicia
 
 The system set up to train physicians in South Carolina and throughout the United States does little to encourage medical school graduates to practice in rural areas where the need for health care is most acute.
 
-South Carolina is not alone in this disparity between either rural and urban, or white and black rates of newborn deaths.
+South Carolina is not alone in this disparity between either rural and urban or white and black rates of newborn deaths.
 
 In its latest two annual reports, Child Health USA 2012 and 2013, the U.S. Department of Health and Human Services said infant mortality in rural counties, especially small ones, runs almost 10 percent higher than in urban areas.
 
 For example, Georgia’s rural Lowndes County, on the Florida border, was identified in a 2012 public health report as the state’s worst for infant mortality, with a rate three times the national average of about six deaths for every 1,000 births.
 
-For blacks, nationwide, the rate of newborn death was more than double the white rate. And in South Carolina, black babies die at rates slightly less than the nation’s rate for black deaths, the report showed.
+For blacks nationwide, the rate of newborn death was more than double the white rate. And in South Carolina, black babies die at rates slightly less than the nation’s rate for black deaths, the report showed.
 
 Southern states generally scored higher rates of black infant mortality than the nation as a whole, but several Midwestern states, such as Wisconsin, Indiana, Illinois, Ohio and Pennsylvania, were equally high.
 
@@ -48,7 +48,7 @@ The Medical University of South Carolina purposely set up its North Charleston C
 
 Henry Lemon, a pediatrician at the clinic, said lack of transportation is one of the biggest hurdles for the poor in obtaining routine medical care.
 
-That hurdle is far higher in the state’s rural areas where people not only lack public transportation, but also doctors, especially specialists who focus on women’s health and childbirth.
+That hurdle is far higher in the state’s rural areas, where people not only lack public transportation but also doctors, especially specialists who focus on women’s health and childbirth.
 
 Poor rural areas simply “aren’t attractive places for doctors to live,” Lemon said.
 
@@ -62,7 +62,7 @@ A committee set up two years ago by the Legislature to study graduate medical ed
 
 “The state has struggled to attract and retain physicians to serve in these areas,” the committee’s report stated. 
 
-The committee recommended last year that South Carolina set aside 15 percent of the state and federal money used each year for graduate medical education, mainly hospital residencies to, in part, train doctors to work in rural communities. That’s about $28 million.
+The committee recommended last year that South Carolina set aside 15 percent of the state and federal money used each year for graduate medical education, mainly hospital residencies, to, in part, train doctors to work in rural communities. That’s about $28 million.
 
 So far, that has not happened.
 
@@ -85,23 +85,23 @@ Donna Johnson is head of MUSC’s Department of Obstetrics and Gynecology and a 
 
 She believes the most effective way to reduce infant mortality over the long run is a major and long-lasting public health education campaign.
 
-“I truly believe in education. The more we can educate the public the more we can improve our health care… South Carolina gets an ‘F’ in women’s health care,” Johnson said.
+“I truly believe in education. The more we can educate the public the more we can improve our health care … South Carolina gets an ‘F’ in women’s health care,” Johnson said.
 
 “We wouldn’t have as big a problem out there if child-bearing was a man’s issue.”
 
-### The cradle of death
+### The 'cradle of death'
 
 Sherena Weaver cups her hands under her premature baby, lowers her face and touches her lips to his. She caresses Stanley’s cheeks with the tip of one finger and whispers her love. 
 
 Stanley’s home since his Oct. 16 birth has been the sterile Neonatal Intensive Care Unit at McLeod Regional Medical Center in Florence. A see-through plastic incubator serves as his crib and keeps him warm.
 
-Weaver visits her new son almost daily. That’s not an easy task for a mother who lives 36 miles away in Johnsonville, has three other children to care for, and is studying to complete cosmetology training.
+Weaver visits her new son almost daily. That’s not an easy task for a mother who lives 36 miles away in Johnsonville, has three other children to care for and is studying to complete cosmetology training.
 
 But Weaver knows her baby needs her, and not just for the love and attention that only a mother can provide. She also was the source of health-giving breast milk that she pumped and carried to the hospital until she went dry.
 
-Stanley arrived in this world at 23 weeks, barely past the time that modern medicine can save a preemie’s life. He’s tripled his 1-pound, 4-ounce birth weight since then.
+Stanley arrived in this world at 23 weeks, barely past the time that modern medicine can save a preemie’s life. He’s tripled his 1 pound, 4 ounce birth weight since then.
 
-Joe Harlan, the neonatologist overseeing Stanley’s care, smiles as he watches the tiny baby and his cooing mother. Harlan looks up and his smile disappears.
+Dr. Joe Harlan, the neonatologist overseeing Stanley’s care, smiles as he watches the tiny baby and his cooing mother. Harlan looks up and his smile disappears.
 Stanley seems well on his way, Harlan said, but half of all infant deaths occur among babies like Stanley, born before 32 weeks.
 
 McLeod Regional Hospital sits in the middle of South Carolina’s “cradle of death,” a cluster of eight counties with some of the state’s highest infant mortality rates over the past three years.
@@ -133,7 +133,7 @@ Medical authorities agree it manifests itself in a combination of poor diets and
 
 To make matters worse, these problems disproportionately affect the region’s large black population.
 
-The numbers paint a clear and shocking picture: In many of the counties in the cradle of death, black babies die at rates three times that of whites in the rest of South Carolina.
+The numbers paint a clear and shocking picture: In many of the counties in the cradle of death, black babies die at rates two to three times that of whites in the rest of South Carolina.
 
 Even in Florence County, home to McLeod and its modern medical facilities, black babies have died at the rate of more than 20 per 1,000 live births in the past three years — almost triple the rate for white babies in Florence and about four times the rate for white babies statewide.
 
@@ -145,7 +145,7 @@ The effort, however, misses three out of every 10 of those babies, Harlan said.
 
 It’s not that the state hasn’t made significant progress.
 
-The state’s infant mortality rate has plummeted by half since 1990 when 12 babies out of 1,000 died before their first birthdays.
+The state’s infant mortality rate has plummeted by half since 1990, when 12 babies out of 1,000 died before their first birthdays.
 
 Still, many of the efforts to save more babies have been limited in duration and reach, Harlan said. The state needs to develop a system with which “we can sustain some of these things,” Harlan said.
 
