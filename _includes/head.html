@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>Cradle of Shame | The Post and Courier</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
@@ -30,83 +30,5 @@
       -webkit-transform: translateX(-600px);
     }
     
-    #container {
-      position: relative;
-      -moz-transform: translateZ(0);
-      overflow: hidden;
-      width: 100%;
-      background: #D1232F;
-      min-height: 100%;
-      max-height: 1024px;
-      z-index: 1;
-      -webkit-transform-style: flat;
-      padding: 0;
-      margin-bottom: 2em;
-    }
-    
-    #container svg{
-        margin:0;
-        padding:0;
-        height: 100%;
-        width: 100%;
-    }
-    
-    div.flatline {
-      width:140%;
-      height: 5px;
-      background: #ffffff;
-      position: absolute;
-      top:0;
-      -moz-transform: translateZ(0);
-      z-index: 4;
-    }
-    
-    #flatline-last {
-      width:0;
-      height: 5px;
-      background: #D1232F;
-      position: absolute;
-      top:20%;
-      left:0;
-      -moz-transform: translateZ(0);
-      z-index: 5;
-    }
-    
-    #title-container {
-      position: absolute;
-      z-index: 5;
-      top:35%;
-      left:0;
-      right:0;
-      margin: 0 auto;
-      font-family: anonymous-pro, sans-serif;
-      font-weight: 800;
-      font-size: 5em;
-      color: #D1232F;
-      -webkit-transform: translate3d(0,0,0);
-    }
-    #title-container h1{
-      width: 82.6666666667%;
-      font-size: 1em;
-      font-weight: 700;
-      color: #D1232F;
-      text-rendering: optimizeLegibility;
-      letter-spacing: -1px;
-    font-feature-settings: "kern";
-    -webkit-font-feature-settings: "kern";
-    -moz-font-feature-settings: "kern";
-    -moz-font-feature-settings: "kern=1";
-    }
-    #title-container p{
-      font-size: 50%;
-      font-family: anonymous-pro, sans-serif;;
-      font-weight: 800;
-      width: 82.6666666667%;
-      text-rendering: optimizeLegibility;
-    font-feature-settings: "kern";
-    -webkit-font-feature-settings: "kern";
-    -moz-font-feature-settings: "kern";
-    -moz-font-feature-settings: "kern=1";
-    }
-  </style>
+      </style>
 </head>

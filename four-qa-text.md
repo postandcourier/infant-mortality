@@ -2,7 +2,7 @@
 layout: dayone
 ---
 
-###### Q: I just found out I’m pregnant, but I don’t have health insurance. What do I do?
+##### Q: I just found out I’m pregnant, but I don’t have health insurance. What do I do?
 
 A: Depending on your income, you might qualify for Medicaid coverage. The easiest way to check is to call 888-549-0820 or go to the agency’s online application, apply.scdhhs.gov. 
 
@@ -13,7 +13,7 @@ Even if you’re not sure if you qualify, don’t hesitate to call a doctor or h
 If you make too much money for Medicaid, look at the answer to the next question.
 
 
-###### Q: I’ve been denied Medicaid coverage and I’m pregnant. How can I afford prenatal care?
+##### Q: I’ve been denied Medicaid coverage and I’m pregnant. How can I afford prenatal care?
 
 A: First, consider private health insurance. An insurance agent or broker can help you consider your options. 
 
@@ -24,7 +24,7 @@ If you can’t afford private insurance, you still need to make an appointment t
 Call the South Carolina Primary Health Care Association, 803-788-2778, or go to the association’s website, www.scphca.org, to find a health center near you. 
 
 
-###### Q: I don’t have a car. How do I get to the doctor’s office?
+##### Q: I don’t have a car. How do I get to the doctor’s office?
 
 A: If you’re covered by Medicaid, you can get a ride to your appointments, but you need to call Logisticare, 866-445-9954, at least three days in advance of your next office visit. 
 
@@ -34,7 +34,7 @@ If you’re experiencing some medical emergency, call 911 for an ambulance.
 
 
 
-###### Q: There’s no doctor or hospital in the county I live in that delivers babies. Where do I go?
+##### Q: There’s no doctor or hospital in the county I live in that delivers babies. Where do I go?
 
 A: It’s very possible that you live in a county that offers no obstetrical services. Even if you do live near a hospital, some of them, especially in rural areas, don’t deliver babies anymore. 
 
@@ -44,7 +44,7 @@ If you’re going to need to travel a significant distance to deliver your baby,
 
 
 
-###### Q: What can I do to give my baby the best chance of being healthy?
+##### Q: What can I do to give my baby the best chance of being healthy?
 
 A: Find a doctor who offers prenatal medical care. Seeing a health care professional for a prenatal checkup during your first trimester and then regularly throughout your pregnancy will drastically reduce your baby’s risks. 
 
@@ -52,7 +52,7 @@ The South Carolina health department also offers a free online book, “Nine Mon
 
 
 
-###### Q: How do I sign up for programs to get help for me and my baby?
+##### Q: How do I sign up for programs to get help for me and my baby?
 
 A: Based on your income and the county you live in, you may qualify for special programs that help promote healthy pregnancies and babies. WIC, short for “Women, Infants and Children,” is a federal program that provides food vouchers and free formula to mothers whose income falls below 185 percent of the federal poverty level, or less than $21,774 for a single pregnant woman without any other children. That income threshold increases based on family size. 
 

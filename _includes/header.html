@@ -1,4 +1,24 @@
 <div id="main-nav">
+  <div class="morph-shape">
+		
+	</div>
   <div class="pc-logo"><img src="images/pc-logo.png" alt="The Post and Courier"></div>
-  <div class="menu-button"><i class="fa fa-bars"></i> Menu</div>
+  <div id="nav-button" class="menu-button"><i class="fa fa-bars"></i> Navigate</div>
+  <ul class="menu__inner">
+		<li><a href="index.html"><span>Part 1: Cradle of Shame</span></a></li>
+		<li><a href="day-two.html"><span>Part 2: Black & White</span></a></li>
+		<li><a href="day-three.html"><span>Part 3: Signs of Life</span></a></li>
+		<li><a href="day-four.html"><span>Part 4: What can be Done?</span></a></li>
+	</ul>
 </div>
+
+<script>
+  $("#nav-button").click(function() {
+      $("#main-nav").toggleClass("menu--open");
+    });
+  (function() {
+    
+    
+    
+  })
+</script>
