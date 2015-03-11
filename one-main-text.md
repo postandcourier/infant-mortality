@@ -26,7 +26,7 @@ The state has seen its infant mortality fall significantly before, only to have 
 
 Among blacks in some rural counties, infants die at rates triple that of whites, mirroring infant death rates in such impoverished countries as Vietnam. Worldwide, infant mortality rates are considered a bellwether for a country’s overall health.
 
-Saving money is one of the key motivators behind the state’s desire to improve infant health. That’s because Medicaid in South Carolina pays for more than half of all births every year. The issue is so complicated that the state would not calculate how much it spends each month on babies in neonatal intensive care because the information was not “readily available.”
+Saving money is one of the key motivators behind the state’s desire to improve infant health. That’s because Medicaid in South Carolina pays for more than half of all births every year. The issue is complex. When asked to calculate how much it spends each month on babies in neonatal intensive care, the state declined. Its explanation: the information was not “readily available.”
 
 Eight of South Carolina’s 46 counties don’t have an obstetrician, a physician who specializes in care for women during pregnancy and childbirth. Two other counties have only one part-time specialist. This leaves patients with little or no ability to get vital health care needed during their pregnancies. 
 
@@ -38,7 +38,7 @@ In its latest two annual reports, [Child Health USA 2012](http://mchb.hrsa.gov/c
 
 For example, Georgia’s rural Lowndes County, on the Florida border, was identified in a 2012 public health report as the state’s worst for infant mortality, with a rate three times the national average of about six deaths for every 1,000 births.
 
-For blacks nationwide, the rate of newborn death was more than double the white rate. And in South Carolina, black babies die at rates slightly less than the nation’s rate for black deaths, the report showed.
+For blacks nationwide, the rate of newborn death was more than double whites. And in South Carolina, black babies fared slightly better than the national average, the report showed.
 
 Southern states generally scored higher rates of black infant mortality than the nation as a whole, but several Midwestern states, such as Wisconsin, Indiana, Illinois and Ohio, were equally high.
 
@@ -62,7 +62,7 @@ A committee set up two years ago by the Legislature to study graduate medical ed
 
 “The state has struggled to attract and retain physicians to serve in these areas,” the committee’s report stated. 
 
-The committee recommended last year that South Carolina set aside 15 percent of the state and federal money used each year for graduate medical education, mainly hospital residencies, to, in part, train doctors to work in rural communities. That’s about $28 million.
+The committee recommended last year that South Carolina set aside 15 percent of the state and federal money used each year for graduate medical education, mainly hospital residencies, to train doctors to work in rural communities. That’s about $28 million.
 
 So far, that has not happened.
 
@@ -112,7 +112,7 @@ A couple of other counties have higher infant death rates, including McCormick, 
 
 ### Reaching the neediest
 
-McLeod’s green-roofed, 12-story hospital tower rises above Florence like the Emerald City of Oz. It is one of the best, and most profitable, hospitals in the state, but it serves a poor region where blacks account for about half of the population. 
+McLeod’s green-roofed, 12-story hospital tower rises above Florence like the Emerald City of Oz. It is one of the best and most profitable hospitals in the state, but it serves a poor region where blacks account for about half of the population. 
 
 That’s why Hart Smith, McLeod’s vice president of Medical and Women and Children’s Services, said the hospital needs to reach out more to head off infant mortality.
 “We have to move more to taking care of people outside the hospital. ... By the time you land here, it’s too late.”
@@ -125,11 +125,11 @@ That’s why McLeod recently began a program to send nurses to meet regularly wi
 
 As Harlan sees it, the Pee Dee region’s poor health and high infant mortality are the results of a social problem. That’s why it’s so hard to deal with.
 
-Making it easier for low-income expectant mothers to receive proper medical care is a big enough obstacle, but the hurdle becomes nearly impossible to clear when you add the need to change a culture, Harlan said.
+Making it easier for low-income expectant mothers to receive proper medical care is a big obstacle. The hurdle becomes nearly impossible to clear when you add the need to change a culture, Harlan said.
 
 Many residents in the region show a reluctance to see doctors — a cultural problem rooted in rural poverty, a sense of separation from society as a whole and a suspicion, even mistrust, of authority figures.
 
-Medical authorities agree it manifests itself in a combination of poor diets and chronic illnesses, such as diabetes and hypertension. Add abusive habits and it’s easy to see the complexity of the problem, Harlan said.
+Medical authorities agree it manifests itself in a combination of poor diets, chronic illnesses and abusive habits. It’s easy to see the complexity of the problem, Harlan said.
 
 To make matters worse, these problems disproportionately affect the region’s large black population.
 
