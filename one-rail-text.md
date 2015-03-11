@@ -5,7 +5,7 @@ Lucy lies on a hospital bed about to give birth prematurely. She breathes heavil
 
 Lucy is a sophisticated, lifelike dummy. She has been programmed to mimic many birth problems in a mobile lab that travels the state to train medical professionals in lifesaving procedures.
 
-Lucy and her roaming lab were paid for with private donations to the Palmetto Health-University of South Carolina School of Medicine. Lucy is just one of many efforts underway in South Carolina to improve infant health.
+Lucy and her roaming lab were paid for with private donations to the Palmetto Health-University of South Carolina School of Medicine Simulation Center. Lucy is just one of many efforts underway in South Carolina to improve infant health.
 
 Most of these programs stem from the Birth Outcomes Initiative, founded four years ago by the former director of the state’s Department of Health and Human Services. 
 The initiative and some of the other efforts likely played some role in the state’s recently reduced rate of newborn deaths. 
@@ -19,7 +19,7 @@ Severely premature babies are more likely to die if they’re given infant formu
 
 A human milk bank can fill this need when a mother can’t produce milk or can’t produce enough for her baby.
 
-But South Carolina hasn’t had its own milk bank. Because of that, the Medical University of South Carolina has historically shipped human breast milk from a milk bank in Austin, Texas.
+But South Carolina hasn’t had its own milk bank. Because of that, the Medical University of South Carolina has imported human breast milk from a milk bank in Austin, Texas.
 
 This year, an MUSC doctor is launching the state’s first nonprofit milk bank to ensure that premature infants in neonatal intensive care units at the state’s major medical centers have access to a reliable supply of human breast milk at a lower cost. The bank has been built with about $200,000 in donations from several organizations, including the South Carolina Department of Health and Human Services and the BlueCross BlueShield of South Carolina Foundation.
 
@@ -45,7 +45,7 @@ C-sections are associated with higher health care costs. Eventually, Medicaid le
 
 This program offers group prenatal support. Women who are expecting infants, including those insured by the low-income Medicaid program, may sign up for one of these groups that meet regularly before delivery.
 
-Moms learn tips from health care professionals, form bonds with each other and share their own experiences.
+Moms learn tips from health care professionals, form bonds with each other and share their experiences.
 
 One study shows that women in group care, particularly black women, are less likely to deliver premature babies than women who don’t receive such care.
 
@@ -57,7 +57,7 @@ This national program has earned much recognition for improving infant health by
 
 The program is expensive, but evidence shows it works, according to three randomized, controlled trials. Fewer babies born into Nurse Family Partnership families are premature or need treatment in a neonatal intensive care unit. The program currently is available in 26 of South Carolina’s 46 counties. 
 
-It’s financed by federal funds and private grant money, with minimal state money. 
+It’s financed by federal funds and private grants, with minimal state money. 
 
 ##### 17-Hydroxyprogesterone
 
@@ -78,7 +78,8 @@ Four hospitals, including Roper St. Francis Mt. Pleasant Hospital and Medical Un
 ##### Healthy Connections Checkup
 
 South Carolina did not expand Medicaid eligibility under the Affordable Care Act. But, last year, the agency did revamp an existing family-planning program that now provides a primary care checkup and preventive screenings once every two years for low-income adults. This program does not pay for any follow-up care.
-But critics argue this program, called Healthy Connections Checkup, is inadequate and the full Medicaid expansion would provide more comprehensive benefits for about 350,000 low-income South Carolinians.
+
+Critics argue this program, called Healthy Connections Checkup, is inadequate and the full Medicaid expansion would provide more comprehensive benefits for about 350,000 low-income South Carolinians.
 
 Nevertheless, the program could be valuable for women in their child-bearing years. Many such women qualify for full Medicaid coverage only when they become pregnant. Experts say medical care before pregnancy and between pregnancies is vital for women who want to deliver healthy children.
 It costs the state about $300 per person to administer Healthy Connections Checkup each year, compared to about $3,000 per person enrolled in regular Medicaid. Most of this cost is covered by the federal government. 
