@@ -14,7 +14,7 @@ These struggling communities remain largely untouched by a four-year state campa
 
 The state provides relatively little money to support some of the most promising infant death prevention efforts. And the programs aren’t available in some counties that need the most help.
 
-South Carolina has long ranked among the deadliest states for newborns. Since 2000, 6,696 South Carolina babies have died before their first birthdays. That’s more than double the number of people killed in the 9/11 terror attacks.
+South Carolina has long ranked among the deadliest states for newborns. Since 2000, 6,696 South Carolina babies have died before their first birthday. That’s more than double the number of people killed in the 9/11 terror attacks.
 
 In recent years, noticeable gains have been made in the state’s booming metropolitan areas, where state-of-the-art hospitals and programs exist to help new mothers through the risks of pregnancy and fragile first months after birth. But poor areas of South Carolina have been left behind, with neither the money nor the resources to conquer the problems claiming their young, the newspaper’s investigation found.
 
@@ -40,7 +40,7 @@ For example, Georgia’s rural Lowndes County, on the Florida border, was identi
 
 For blacks nationwide, the rate of newborn death was more than double the white rate. And in South Carolina, black babies die at rates slightly less than the nation’s rate for black deaths, the report showed.
 
-Southern states generally scored higher rates of black infant mortality than the nation as a whole, but several Midwestern states, such as Wisconsin, Indiana, Illinois, Ohio and Pennsylvania, were equally high.
+Southern states generally scored higher rates of black infant mortality than the nation as a whole, but several Midwestern states, such as Wisconsin, Indiana, Illinois and Ohio, were equally high.
 
 ### Accessibility of care is critical
 
@@ -106,9 +106,9 @@ Stanley seems well on his way, Harlan said, but half of all infant deaths occur 
 
 McLeod Regional Hospital sits in the middle of South Carolina’s “cradle of death,” a cluster of eight counties with some of the state’s highest infant mortality rates over the past three years.
 
-In these counties, babies die before their first birthday at up to double the state average. Black babies die at double to triple the rate for whites.
+In these counties, babies die before their first birthday at up to double the state average.
 
-A couple of other counties have higher infant death rates, including McCormick, with an average rate of 34 babies dying for every 1,000 births in the last three years. But those figures are skewed by the counties’ tiny numbers of births.
+A couple of other counties have higher infant death rates, including McCormick, with an average rate of 34 babies dying for every 1,000 births in the last three years. But those figures are skewed by the counties’ tiny number of births.
 
 ### Reaching the neediest
 
@@ -117,7 +117,7 @@ McLeod’s green-roofed, 12-story hospital tower rises above Florence like the E
 That’s why Hart Smith, McLeod’s vice president of Medical and Women and Children’s Services, said the hospital needs to reach out more to head off infant mortality.
 “We have to move more to taking care of people outside the hospital. ... By the time you land here, it’s too late.”
 
-Many pregnant women rarely see a doctor, except when they show up at the emergency room to give birth. Statewide birth certificate data shows nearly 600 pregnant women in South Carolina, and 26 in Florence County alone, received no prenatal care at all in 2013 before they gave birth.
+Many pregnant women rarely see a doctor, except when they show up at the emergency room to give birth. Statewide birth certificate data for 2013 shows nearly 600 pregnant women in South Carolina, and 26 in Florence County alone, received no prenatal care before they gave birth.
 
 That’s why McLeod recently began a program to send nurses to meet regularly with low-income, first-time mothers-to-be.
 
