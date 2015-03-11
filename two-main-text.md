@@ -12,13 +12,13 @@ She’s typical of far too many young black mothers in a state where the death r
 
 Ashley sinks into an overstuffed couch in the den of her parents’ brick ranch home in a neighborhood of tidy, small houses and trailers just off this farm town’s main drag. 
 
-The town claims as a favorite son Depression-era FBI agent Melvin Purvis, who famously led the hunt that killed gangster John Dillinger. Nowadays, it's best known for the nearby Honda all-terrain vehicle plant.
+The town claims as a favorite son Depression-era FBI agent Melvin Purvis, who famously led the hunt that killed gangster John Dillinger. Nowadays, Timmonsville is best known for the nearby Honda all-terrain vehicle plant.
 
 Three miles from that bustling plant, Ashley cradles the toy baby in the crook of her left arm with the ease of an experienced mother.
 
 The toy baby is a prop Driggers uses to gauge how comfortable first-time mothers-to-be are with what will soon be coming their way.
 
-Driggers is one of dozens of nurses in South Carolina who are part of a national program called Nurse Family Partnership. McLeod Regional Medical Center in Florence, where Driggers works, sponsors the program in four of the 26 mostly rural counties where it operates.
+Driggers is one of dozens of nurses in South Carolina who are part of a national program called Nurse Family Partnership. McLeod Regional Medical Center in Florence, where Driggers works, sponsors the program in four of the 26 mostly rural counties where the program operates.
 
 The four counties — Florence, Darlington, Dillon and Marlboro — are part of McLeod’s service area.
 
@@ -30,7 +30,7 @@ McLeod sees the initiative as a way to counter the high infant mortality rates a
 
 Infant mortality is such a crisis in many counties surrounding McLeod that the area is a virtual cradle of death, with some of the state’s highest rates of newborns dying before their first birthdays — nearly double the state average.
 
-For black newborns, the toll is even greater — douple or triple that of whites, and more in some cases.
+For black newborns, the toll is even greater — double or triple that of whites, and more in some cases.
 
 Ashley fits the mold for the type of young mother the program aims to serve. The idea is to pair nurses with low-income, first-time moms to help them build healthy lives for themselves and their babies.
 
@@ -40,7 +40,7 @@ Ashley was referred to the program by the Florence County Health Department. Her
 
 Driggers visits nine mothers each week.
 
-The program’s goal is 25 for each of the five nurses currently participating. The program serves 29 mothers, but that’s expected to grow rapidly.
+The program’s goal is 25 for each of the five nurses currently participating. The program serves 29 mothers, but that number is expected to grow rapidly.
 
 Of the state’s many, but mostly scattered, uncoordinated and underfunded efforts to combat infant mortality, the Nurse Family Partnership offers a proven track record. 
 
