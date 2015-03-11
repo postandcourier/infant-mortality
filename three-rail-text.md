@@ -18,7 +18,7 @@ She didn’t learn something was very wrong until after she went for an ultrasou
 
 There, technicians hooked her to monitors but said nothing about her baby. They told her she was having contractions with two months to go until her due date. 
 
-Then they transferred her to the specialized care at the MUSC’s Department of Maternal Fetal Medicine. 
+Then they transferred her for specialized care at the MUSC’s Department of Maternal Fetal Medicine. 
 
 It was March 2010, and her due date wasn’t until May.
 
