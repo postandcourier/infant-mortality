@@ -8,7 +8,7 @@ The sound of her baby’s heartbeat comforted Laura Quamme, but a lingering ques
 
 Her doctor reassured her that the baby was just very calm.
 
-The new mother-to-be assumed all was fine when she mistook cramps or contractions for baby kicks.
+The mother-to-be assumed all was fine when she mistook cramps or contractions for baby kicks.
 
 Then she swelled with excessive fluid.
 
