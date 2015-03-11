@@ -60,7 +60,7 @@ Instead of anger, he responded with calm reassurance, she said. He told her, “
 
 Even with her parents’ support, Ashley feels alone, angry and ignored.
 
-She welcomes Driggers’ weekly visits. “It’s good to hear different voices besides your Mom and Dad.”
+She welcomes Driggers’ weekly visits. “It’s good to hear different voices besides your mom and dad.”
 
 She and Driggers giggle like girlfriends sharing secrets. They talk about healthy eating, how the baby is growing — “it’s the size of an apple now” — and chat about emotions, friends who don’t come around much anymore and whether her “baby father ... is ready to have a baby by me.”
 
