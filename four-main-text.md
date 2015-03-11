@@ -16,7 +16,7 @@ She and her husband, Scott, now 39, are devout Baptists and considered the pregn
 
 Now, that gift was in danger.
 
-The couple consulted with her physician and doctors at Palmetto Health Richland hospital in Columbia, who recommended that she seek assistance from specialists at the Medical University of South Carolina.
+The couple consulted with her physician and doctors at Palmetto Health Richland hospital in Columbia. They recommended she seek assistance from specialists at the Medical University of South Carolina.
 
 The Taylors discovered they were about to benefit from one of the most promising new programs in the state to get specialized medical skill to rural communities and hospitals that lack necessary expertise.
 
@@ -24,7 +24,7 @@ MUSC is 130 miles and more than a two-hour drive from the Taylors’ home in rur
 
 That’s because MUSC has been attempting to widen its reach, especially to areas of rural South Carolina that lack medical care and access to specialists.
 
-MUSC has set up a series of telemedicine stations at various hospitals and clinics across much of eastern and southern South Carolina. MUSC specialists use the stations to provide real-time consultation with rural physicians who lack specialized medical training in various fields, including obstetrics.
+MUSC has set up a series of telemedicine stations at various hospitals and clinics across much of rural South Carolina. Hospital specialists use the stations to provide real-time consultation with rural physicians who lack specialized medical training in various fields, including obstetrics.
 
 Eight of the state’s counties have no doctors specially trained in the care of pregnant women. Many of these counties also have infant mortality rates — especially among black infants — that are double and triple the state average.
 
