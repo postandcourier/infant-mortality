@@ -22,7 +22,7 @@ Consider the following:
 
 The mothers of more than a quarter of the newborns who died last year [received little or no prenatal care](http://example.com/). The death rate for those babies is more than five times the statewide rate. For blacks it’s about seven times higher. 
 
-The state has seen its infant mortality improve significantly before, only to have it rise again. From 2002 to 2003, the rate dropped more than 10 percent. Then in 2004, it increased by more than 10 percent.
+The state has seen its infant mortality fall significantly before, only to have it rise again. From 2002 to 2003, the rate dropped more than 10 percent. Then in 2004, it increased by more than 10 percent.
 
 Among blacks in some rural counties, infants die at rates triple that of whites, mirroring infant death rates in such impoverished countries as Vietnam. Worldwide, infant mortality rates are considered a bellwether for a country’s overall health.
 
