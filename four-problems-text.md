@@ -34,7 +34,7 @@ SOLUTION:
 
 The state could offer substantial financial incentives to persuade obstetricians and obstetrically-trained family physicians to practice in under-served communities. 
 
-The Legislature could also continue expanding the state’s existing telemedicine program that connects rural physicians with real-time consultation with medical specialists in Charleston and Columbia.
+The Legislature could also continue expanding the state’s existing telemedicine program that connects rural physicians with medical specialists in Charleston and Columbia.
 
 PROBLEM:
 
