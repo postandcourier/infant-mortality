@@ -120,7 +120,7 @@ The Oconee County family medicine residency initially was supposed to operate in
 
 But the residency was moved to Oconee County after details could not be worked out with a sponsoring hospital in Columbia.
 
-Lovelace, a family doctor, recognized the need for C-section training in 1989 during his second year of solo practice in Newberry County.
+Lovelace recognized the need for C-section training in 1989 during his second year of solo practice in Newberry County.
 
 That year, the county’s only OB/GYN died suddenly, leaving Lovelace as the only physician delivering babies in three neighboring rural counties: Newberry, Saluda and Fairfield. He delivered 220 babies that year.
 
