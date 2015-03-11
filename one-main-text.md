@@ -34,7 +34,7 @@ The system set up to train physicians in South Carolina and throughout the Unite
 
 South Carolina is not alone in this disparity between either rural and urban or white and black rates of newborn deaths.
 
-In its latest two annual reports, Child Health USA 2012 and 2013, the U.S. Department of Health and Human Services said infant mortality in rural counties, especially small ones, runs almost 10 percent higher than in urban areas.
+In its latest two annual reports, [Child Health USA 2012](http://mchb.hrsa.gov/chusa12/more/downloads/pdf/chusa12.pdf) and [2013](http://mchb.hrsa.gov/chusa13/), the U.S. Department of Health and Human Services said infant mortality in rural counties, especially small ones, runs almost 10 percent higher than in urban areas.
 
 For example, Georgia’s rural Lowndes County, on the Florida border, was identified in a 2012 public health report as the state’s worst for infant mortality, with a rate three times the national average of about six deaths for every 1,000 births.
 
