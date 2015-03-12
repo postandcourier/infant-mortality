@@ -46,7 +46,7 @@ Of the state’s many, but mostly scattered, uncoordinated and underfunded effor
 
 It’s a pricey, hands-on program that costs about $4,800 a year per mother. In 2014, the program served 1,286 South Carolina mothers and their babies.
 
-It can cost as much as $6,500 per family, McLeod Nurse Supervison Kristen Miller said. But she pointed to studies that show it works and that for every dollar spent, it earns a $6.20 return from decreased spending on health care, criminal justice, child protection and other community services.
+It can cost as much as $6,500 per family, McLeod Nurse Supervisor Kristen Miller said. But she pointed to studies that show it works and that for every dollar spent, it earns a $6.20 return from decreased spending on health care, criminal justice, child protection and other community services.
 
 A report published last year in the medical journal JAMA Pediatrics found significant reductions in infant mortality and other childhood problems as a result of nurses making regular home visits with pregnant women and young mothers. The study in Memphis, Tenn., described such visits with young mothers as “a promising means of reducing ... mortality in their first-born children living in highly disadvantaged settings.”
 
@@ -122,7 +122,7 @@ Ashley continues to cradle the toy baby in her left arm and gestures with her ri
 
 “I was not prepared at all,” when Driggers’ visits began, Ashley says. “Now, I can have someone to talk to and break things down. You can’t get it from a doctor.”
 
-For Driggers, the goal is to develop long-term relationships with young mothers to steadily break the cycle that can lead to preventable infant deaths.
+For Driggers, the goal is to develop long-term relationships with young mothers to steadily break the cycle that causes unnecessary infant deaths.
 
 “We’re here to set life goals” that set mothers on the path to healthy lives for themselves and their children, and the family and friends they touch, Driggers says.
 
