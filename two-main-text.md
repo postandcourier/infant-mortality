@@ -12,17 +12,17 @@ She’s typical of far too many young black mothers in a state where the death r
 
 Ashley sinks into an overstuffed couch in the den of her parents’ brick ranch home in a neighborhood of tidy, small houses and trailers just off this farm town’s main drag. 
 
-The town claims as a favorite son Depression-era FBI agent Melvin Purvis, who famously led the hunt that killed gangster John Dillinger. Nowadays, it's best known for the nearby Honda all-terrain vehicle plant.
+The town claims as a favorite son Depression-era FBI agent Melvin Purvis, who famously led the hunt that killed gangster John Dillinger. Nowadays, Timmonsville is best known for the nearby Honda all-terrain vehicle plant.
 
 Three miles from that bustling plant, Ashley cradles the toy baby in the crook of her left arm with the ease of an experienced mother.
 
 The toy baby is a prop Driggers uses to gauge how comfortable first-time mothers-to-be are with what will soon be coming their way.
 
-Driggers is one of dozens of nurses in South Carolina who are part of a national program called Nurse Family Partnership. McLeod Regional Medical Center in Florence, where Driggers works, sponsors the program in four of the 26 mostly rural counties where it operates.
+Driggers is one of dozens of nurses in South Carolina who are part of a national program called Nurse Family Partnership. McLeod Regional Medical Center in Florence, where Driggers works, sponsors the program in four of the 26 mostly rural counties where the program operates.
 
 The four counties — Florence, Darlington, Dillon and Marlboro — are part of McLeod’s service area.
 
-McLeod’s effort also receives money from the Children’s Trust of South Carolina, Boeing South Carolina and the Marlboro County General Hospital Trust Foundation.
+McLeod’s effort also receives money from the Children’s Trust of South Carolina, McLeod Health Foundation, Boeing South Carolina and the Marlboro County General Hospital Trust Foundation.
 
 McLeod sees the initiative as a way to counter the high infant mortality rates and preterm deliveries that plague Florence and the rural Pee Dee counties that surround it. The program got underway in December.
 
@@ -30,7 +30,7 @@ McLeod sees the initiative as a way to counter the high infant mortality rates a
 
 Infant mortality is such a crisis in many counties surrounding McLeod that the area is a virtual cradle of death, with some of the state’s highest rates of newborns dying before their first birthdays — nearly double the state average.
 
-For black newborns, the toll is even greater — douple or triple that of whites, and more in some cases.
+For black newborns, the toll is even greater — double or triple that of whites, and more in some cases.
 
 Ashley fits the mold for the type of young mother the program aims to serve. The idea is to pair nurses with low-income, first-time moms to help them build healthy lives for themselves and their babies.
 
@@ -40,13 +40,13 @@ Ashley was referred to the program by the Florence County Health Department. Her
 
 Driggers visits nine mothers each week.
 
-The program’s goal is 25 for each of the five nurses currently participating. The program serves 29 mothers, but that’s expected to grow rapidly.
+The program’s goal is 25 for each of the five nurses currently participating. The program serves 29 mothers, but that number is expected to grow rapidly.
 
 Of the state’s many, but mostly scattered, uncoordinated and underfunded efforts to combat infant mortality, the Nurse Family Partnership offers a proven track record. 
 
 It’s a pricey, hands-on program that costs about $4,800 a year per mother. In 2014, the program served 1,286 South Carolina mothers and their babies.
 
-It can cost as much as $6,500 per family, McLeod spokeswoman Tracy Stanton said. But she pointed to studies that show it works and that for every dollar spent, it earns a $6.20 return from decreased spending on health care, criminal justice, child protection and other community services.
+It can cost as much as $6,500 per family, McLeod Nurse Supervison Kristen Miller said. But she pointed to studies that show it works and that for every dollar spent, it earns a $6.20 return from decreased spending on health care, criminal justice, child protection and other community services.
 
 A report published last year in the medical journal JAMA Pediatrics found significant reductions in infant mortality and other childhood problems as a result of nurses making regular home visits with pregnant women and young mothers. The study in Memphis, Tenn., described such visits with young mothers as “a promising means of reducing ... mortality in their first-born children living in highly disadvantaged settings.”
 
@@ -60,7 +60,7 @@ Instead of anger, he responded with calm reassurance, she said. He told her, “
 
 Even with her parents’ support, Ashley feels alone, angry and ignored.
 
-She welcomes Driggers’ weekly visits. “It’s good to hear different voices besides your Mom and Dad.”
+She welcomes Driggers’ weekly visits. “It’s good to hear different voices besides your mom and dad.”
 
 She and Driggers giggle like girlfriends sharing secrets. They talk about healthy eating, how the baby is growing — “it’s the size of an apple now” — and chat about emotions, friends who don’t come around much anymore and whether her “baby father ... is ready to have a baby by me.”
 

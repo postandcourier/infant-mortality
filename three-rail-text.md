@@ -8,7 +8,7 @@ The sound of her baby’s heartbeat comforted Laura Quamme, but a lingering ques
 
 Her doctor reassured her that the baby was just very calm.
 
-The new mother-to-be assumed all was fine when she mistook cramps or contractions for baby kicks.
+The mother-to-be assumed all was fine when she mistook cramps or contractions for baby kicks.
 
 Then she swelled with excessive fluid.
 
@@ -18,7 +18,7 @@ She didn’t learn something was very wrong until after she went for an ultrasou
 
 There, technicians hooked her to monitors but said nothing about her baby. They told her she was having contractions with two months to go until her due date. 
 
-Then they transferred her to the specialized care at the MUSC’s Department of Maternal Fetal Medicine. 
+Then they transferred her for specialized care at the MUSC’s Department of Maternal Fetal Medicine. 
 
 It was March 2010, and her due date wasn’t until May.
 

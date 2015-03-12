@@ -18,6 +18,8 @@ SOLUTION:
 
 One possible solution would be to expand an existing hospital residency program in Oconee County that trains family physicians for service in rural areas. The program provides physician residents with optional specialized training in obstetrics and some obstetrical surgeries, such as C-sections.
 
+The state could also offer full scholarships to medical school to physicians who contract to practice for a specified number of years in selected, under-served communities in South Carolina. 
+
 PROBLEM:
 
 Many women in poor, rural areas of the state can’t afford prenatal care. And many doctors in South Carolina won’t accept Medicaid.
@@ -34,7 +36,7 @@ SOLUTION:
 
 The state could offer substantial financial incentives to persuade obstetricians and obstetrically-trained family physicians to practice in under-served communities. 
 
-The Legislature could also continue expanding the state’s existing telemedicine program that connects rural physicians with real-time consultation with medical specialists in Charleston and Columbia.
+The Legislature could also continue expanding the state’s existing telemedicine program that connects rural physicians with medical specialists in Charleston and Columbia.
 
 PROBLEM:
 

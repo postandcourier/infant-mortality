@@ -6,7 +6,7 @@ Three things stand out about Yazmin Garcia as she lies on an examination table a
 
 She’s here for an ultrasound to see if all looks right with her baby, which obviously is a boy.
 
-She’s 22, poor, illegal, unmarried and soon to be the mother of four.
+She’s 22, poor, undocumented, unmarried and soon to be the mother of four.
 
 She’s the definition of why rural South Carolina continues to see infant mortality rates at third-world levels.
 
@@ -62,7 +62,7 @@ The only noticeable potential problem is the baby’s head pointing up instead o
 
 The ultrasound is just part of the array of prenatal services Garcia receives for free at the clinic.
 
-### Clinic provides what’s messing
+### Clinic provides what’s missing
 
 The clinic’s care stands in stark contrast to the lack of medical attention for so many other poor women across rural South Carolina.
 
@@ -94,7 +94,7 @@ The program does not require resident doctors to take specialized training in ob
 
 At any one time, seven to eight physicians are enrolled in the residency.
 
-Of the 29 physicians who have graduated from it since 2003, 15 stayed in South Carolina, 12 of those in rural or underserved areas. Three of the 12 do obstetrics. Two other perform obstetrics in rural North Carolina.
+Of the 29 physicians who have graduated from it since 2003, 15 stayed in South Carolina, 12 of those in rural or underserved areas. Three of the 12 do obstetrics. Two others perform obstetrics in rural North Carolina.
 
 Evans said he’s happy with the retention rate, and hopes to see similar residencies set up across South Carolina to address the lack of rural medical care.
 
@@ -110,7 +110,7 @@ She completed her residency last June and by early October she sat in front of a
 
 “This is exciting stuff,” Westmoreland said. “You are in the action. You get to do absolutely everything.” 
 
-If she had stayed in` Greenville with its expansive hospital, she wouldn’t have been able to do obstetrics, much less C-sections, she said.
+If she had stayed in Greenville with its expansive hospital, she wouldn’t have been able to do obstetrics, much less C-sections, she said.
 
 In Oconee, she handles all types of medical issues, never knowing what’s coming next. “I absolutely love not knowing what’s behind the door.”
 
@@ -120,7 +120,7 @@ The Oconee County family medicine residency initially was supposed to operate in
 
 But the residency was moved to Oconee County after details could not be worked out with a sponsoring hospital in Columbia.
 
-Lovelace, a family doctor, recognized the need for C-section training in 1989 during his second year of solo practice in Newberry County.
+Lovelace recognized the need for C-section training in 1989 during his second year of solo practice in Newberry County.
 
 That year, the county’s only OB/GYN died suddenly, leaving Lovelace as the only physician delivering babies in three neighboring rural counties: Newberry, Saluda and Fairfield. He delivered 220 babies that year.
 
@@ -138,13 +138,11 @@ Lovelace denied that. He said he helped design the program and it never was inte
 
 The family physicians in his practice eventually found the training at other hospitals.
 
-### Rural medical care lacking
-
 Lovelace’s family practice became one of the few in rural South Carolina to offer full prenatal, delivery and after-care to rural, poor women who might otherwise go without. 
 
 Three years after Lovelace and his fellow doctors received the training, black infant mortality in Newberry County dropped by two-thirds, state health department data shows.
 
-And over the last three years of complete records, rural Newberry and Oconee counties boast among the lowest overall infant mortality rates in the state — rates below the state average for that same period.
+And over the last three years of complete records, rural Newberry and Oconee counties boast among the lowest overall infant mortality rates in the state.
 
 Unlike in Oconee County, Newberry’s low infant mortality rate of about six babies out of every 1,000 over the past three years cannot be attributed to a small black population. Blacks account for almost one-third of Newberry’s residents.
 

@@ -21,7 +21,7 @@ Insurance navigators at The Palmetto Project, 843-577-4122, may also help. This 
 
 If you can’t afford private insurance, you still need to make an appointment to see a doctor or a health care professional. Try calling a local health center, such as the federally subsidized Fetter Health Network in Charleston County. Similar federally funded, low-income clinics are located across the state. They offer health care services to uninsured patients and charge discounted, flat fees, which are calculated based on your income. 
 
-Call the South Carolina Primary Health Care Association, 803-788-2778, or go to the association’s website, www.scphca.org, to find a health center near you. 
+Call the South Carolina Primary Health Care Association, 803-788-2778, or go to the association’s website, [www.scphca.org](http://www.scphca.org/), to find a health center near you. 
 
 
 ##### Q: I don’t have a car. How do I get to the doctor’s office?
@@ -38,7 +38,7 @@ If you’re experiencing some medical emergency, call 911 for an ambulance.
 
 A: It’s very possible that you live in a county that offers no obstetrical services. Even if you do live near a hospital, some of them, especially in rural areas, don’t deliver babies anymore. 
 
-Nevertheless, find the location of your closest hospital. Call the hospital or a doctor’s office for advice. You may also consider using a licensed midwife to handle delivery at home or at a birth center if your pregnancy is uncomplicated. Go to the state health department’s website, www.scdhec.gov, for more information. 
+Nevertheless, find the location of your closest hospital. Call the hospital or a doctor’s office for advice. You may also consider using a licensed midwife to handle delivery at home or at a birth center if your pregnancy is uncomplicated. Go to the state health department’s website, [www.scdhec.gov](http://www.scdhec.gov/Health/FHPF/HealthFacilityRegulationsLicensing/HealthcareFacilityLicensing/FacilitySpecificInfo/Midwives/), for more information. 
 
 If you’re going to need to travel a significant distance to deliver your baby, make sure you’re ready ahead of time. Arrange for transportation and pack a bag for your hospital stay in advance.
 
@@ -48,7 +48,7 @@ If you’re going to need to travel a significant distance to deliver your baby,
 
 A: Find a doctor who offers prenatal medical care. Seeing a health care professional for a prenatal checkup during your first trimester and then regularly throughout your pregnancy will drastically reduce your baby’s risks. 
 
-The South Carolina health department also offers a free online book, “Nine Months to Get Ready,” that provides tips specific to the month of your pregnancy. Go to www.scdhec.gov/Health/FamilyPlanning/Pregnancy/ for more information.
+The South Carolina health department also offers a free online book, “Nine Months to Get Ready,” that provides tips specific to the month of your pregnancy. Go to [www.scdhec.gov/Health/FamilyPlanning/Pregnancy/](http://www.scdhec.gov/Health/FamilyPlanning/Pregnancy/) for more information.
 
 
 
