@@ -27,14 +27,6 @@
             <p>Wade Spees</p>
           </div>
         </div>
-        <div class="row">
-          <div class="four columns">
-            <h6>Editing</h6>
-          </div>
-          <div class="four columns">
-            <h6>Print Design & Graphics</h6>
-          </div>
-        </div>
       </div>
       
     </div>
@@ -44,6 +36,12 @@
 </footer>
 
 <script>
+  
+//function to send tweet events
+
+function pullTweetGaEvent(id) {
+  __gaTracker('send', 'event', 'cradleofshame', id, 'shared');
+};
   
 //function to create popup windows
 function windowpop(url, width, height) {
