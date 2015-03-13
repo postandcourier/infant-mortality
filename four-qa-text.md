@@ -19,7 +19,7 @@ A: First, consider private health insurance. An insurance agent or broker can he
 
 Insurance navigators at The Palmetto Project, 843-577-4122, may also help. This nonprofit group has been trained by the federal government to help customers enroll in coverage. Their services are free.
 
-If you can’t afford private insurance, you still need to make an appointment to see a doctor or a health care professional. Try calling a local health center, such as the federally subsidized Fetter Health Network in Charleston County. Similar federally funded, low-income clinics are located across the state. They offer health care services to uninsured patients and charge discounted, flat fees, which are calculated based on your income. 
+If you can’t afford private insurance, you still need to make an appointment to see a doctor or a health care professional. Try calling a local health center, such as the federally subsidized Fetter Health Care Network in Charleston County. Similar federally funded, low-income clinics are located across the state. They offer health care services to uninsured patients and charge discounted, flat fees, which are calculated based on your income. 
 
 Call the South Carolina Primary Health Care Association, 803-788-2778, or go to the association’s website, [www.scphca.org](http://www.scphca.org/), to find a health center near you. 
 
@@ -28,7 +28,7 @@ Call the South Carolina Primary Health Care Association, 803-788-2778, or go to 
 
 A: If you’re covered by Medicaid, you can get a ride to your appointments, but you need to call Logisticare, 866-445-9954, at least three days in advance of your next office visit. 
 
-If you’re not covered by Medicaid, you might consider seeing a doctor whose office can be easily reached by public transportation. For example, both the MUSC Women’s Care clinic in North Charleston and the Fetter Health Network on the peninsula are within short walking distance of public bus lines.
+If you’re not covered by Medicaid, you might consider seeing a doctor whose office can be easily reached by public transportation. For example, both the MUSC Women’s Care clinic in North Charleston and the Fetter Health Care Network on the peninsula are within short walking distance of public bus lines.
 
 If you’re experiencing some medical emergency, call 911 for an ambulance. 
 
@@ -54,7 +54,7 @@ The South Carolina health department also offers a free online book, “Nine Mon
 
 ##### Q: How do I sign up for programs to get help for me and my baby?
 
-A: Based on your income and the county you live in, you may qualify for special programs that help promote healthy pregnancies and babies. WIC, short for “Women, Infants and Children,” is a federal program that provides food vouchers and free formula to mothers whose income falls below 185 percent of the federal poverty level, or less than $21,774 for a single pregnant woman without any other children. That income threshold increases based on family size. 
+A: Based on your income and the county you live in, you may qualify for special programs that help promote healthy pregnancies and babies. WIC, short for “Women, Infants and Children,” is a federal program that provides food vouchers and free formula to mothers whose income falls below 185 percent of the federal poverty level, or less than $21,774 for a single pregnant woman without any other children. Pregnant women with other children may earn more and still qualify for assistance.  
 
 To apply for WIC, contact your local county health department.
 
