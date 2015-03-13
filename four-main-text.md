@@ -12,7 +12,7 @@ A week after Cody showed his first symptoms of fifth disease, Erin broke out wit
 
 She was about three months pregnant. 
 
-She and her husband, Scott, now 39, are devout Baptists and considered the pregnancy a gift from God because she had hemorrhaged during her pregnancy with Cody and didn’t think she could have another baby.
+She and her husband, Scott, now 39, are devout Baptists and considered the pregnancy a gift from God. Erin had hemorrhaged during her pregnancy with Cody and didn’t think she could have another baby.
 
 Now, that gift was in danger.
 
@@ -24,7 +24,7 @@ MUSC is 130 miles and more than a two-hour drive from the Taylors’ home in rur
 
 That’s because MUSC has been attempting to widen its reach, especially to areas of rural South Carolina that lack medical care and access to specialists.
 
-MUSC has set up a series of telemedicine stations at various hospitals and clinics across much of rural South Carolina. Hospital specialists use the stations to provide real-time consultation with rural physicians who lack specialized medical training in various fields, including obstetrics.
+To do that, MUSC has set up a series of telemedicine stations at various hospitals and clinics across much of rural South Carolina. Hospital specialists use the stations to provide real-time consultation with rural physicians who lack specialized medical training in various fields, including obstetrics.
 
 Eight of the state’s counties have no doctors specially trained in the care of pregnant women. Many of these counties also have infant mortality rates — especially among black infants — that are double and triple the state average.
 
@@ -34,7 +34,7 @@ This way, women won’t need to drive half an hour to Orangeburg for routine med
 
 “We’ve got a lot of people in Bamberg,” McAlhaney said. “We’re not talking about people of our social standing — Medicaid, indigent patients. Those are the people who have a hard time getting to Orangeburg.”
 
-Back in Kershaw County, the Taylors drove 30 miles from their rural home to the hospital in Columbia. There, Dr. Scott Sullivan, an MUSC maternal medicine specialist, could talk with Erin Taylor, read her medical tests and consult with her physicians using a secure computer station mounted with a video screen and a rotatable webcam.
+Back in Kershaw County, the Taylors drove 30 miles from their rural home to the hospital in Columbia. There, Dr. Scott Sullivan, an MUSC maternal-fetal medicine specialist, could talk with Erin Taylor, read her medical tests and consult with her physicians using a secure computer station mounted with a video screen and a rotatable webcam.
 
 The contraption resembles a “Star Wars” robot.
 
