@@ -30,7 +30,7 @@ She received that training during her family medicine residency just 10 miles aw
 
 It’s the only such residency for family physicians in the state, one of just 25 nationally, according to the residency’s director, Dr. Ed Evans.
 
-Evans, a professor of family medicine with the Medical University of South Carolina, thinks the residency helps provide one of the key means to reduce infant mortality in rural areas.
+Evans thinks the residency helps provide one of the key means to reduce infant mortality in rural areas.
 
 For the medical residents who are interested, it also offers concentrated training in obstetrical and gynecological medical service, Evans said.
 
